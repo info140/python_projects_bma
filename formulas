@@ -1,1 +1,9 @@
 print("HELLO WORLD")
+
+# cone
+pi = 3.14
+r = float(input("enter the raduis"))
+h = float(input("enter the height"))
+vol = 1/2*pi*(r**2)*h
+print("volume of cone", vol)
+
